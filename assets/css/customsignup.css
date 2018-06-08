@@ -1,0 +1,171 @@
+body{
+	background: url("../image/background.png");
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    margin: 0px;
+    background-color: #fff;
+}
+#wrapper{
+	    max-width: 920px;
+margin: 71px auto;
+}
+#main-wrapper{
+    margin: 10px 0px;
+    float: left;
+    width: 100%;
+}
+#kiri {
+    float: left;
+    width: 28%;
+    background: #ffffff;
+    padding: 50px;
+}
+#kanan{
+width: 50%;
+    float: right;
+    background: #33333359;
+    padding: 50px;
+    color: #fff;
+}
+
+#daftar{
+	    font-weight: bold;
+    margin: 10px 0px;
+}
+#nama, #passwordku, #passwordku2{
+    width: 95%;
+    padding: 10px;
+    margin: 10px 0px;
+    background: transparent;
+    color: #fff;
+    border: 2px solid #fff;
+}
+#namaemail{
+    width: 55%;
+    padding: 10px;
+    margin: 10px 0px;
+    background: transparent;
+    color: #fff;
+    float: left;
+    border: 2px solid #fff;
+}
+#keterangan_email{
+    width: 35%;
+    float: left;
+    background: #ffffff;
+    padding: 9px;
+    font-size: 15px;
+    color: #333;
+    font-weight: bold;
+    margin: 10px 0px;
+}
+#Namakuaja{
+	font-size: 20pt;
+    font-weight: bold;
+    color: #262524;
+    margin: 0px;
+}
+#Nim {
+    font-size: 13pt;
+    font-weight: bolder;
+    margin: 0px;
+    -webkit-margin-after: 0px;
+    -webkit-margin-before: 0px;
+}
+#garis{
+	width: 100%;
+    padding: 0px;
+    border: 1px dotted #ccc;
+    background: #75757500;
+    margin: 10px 0px;
+}
+#Ket{
+	    font-size: 11pt;
+    line-height: 1.9em;
+    text-align: justify;
+}
+#daftar2{
+	width: 49%;
+	float: left;
+	margin: 0px 9.07px 10px 0px;
+	    color: #ffffff;
+    font-size: .9em;
+    text-decoration: none;
+    padding: 1em 2em;
+    cursor: pointer;
+    background: #829bbb;
+    text-transform: uppercase;
+    font-weight: 600;
+    text-align: center;
+    border: solid 1px #829bbb;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+}
+#daftar2:hover{
+	    background: none;
+    border: solid 1px #FFFFFF;
+}
+#daftar4{
+	width: 49%;
+	float: left;
+	margin: 0px 0px 10px 0px;
+	    color: #ffffff;
+    font-size: .9em;
+    text-decoration: none;
+    padding: 1em 2em;
+    cursor: pointer;
+    background: #829bbb;
+    text-transform: uppercase;
+    font-weight: 600;
+    text-align: center;
+    border: solid 1px #829bbb;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+}
+#daftar4:hover{
+	    background: none;
+    border: solid 1px #FFFFFF;
+}
+#daftar3{
+	width: 100%;
+	    color: #ffffff;
+    font-size: .9em;
+    text-decoration: none;
+    padding: 1em 2em;
+    cursor: pointer;
+    background: #fe998c;
+    text-transform: uppercase;
+    font-weight: 600;
+    text-align: center;
+    border: solid 1px #fe998c;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+}
+#daftar3:hover{
+	    background: none;
+    border: solid 1px #FFFFFF;
+}
+#Footer{
+	    float: left;
+    text-align: center;
+    width: 100%;
+    color: #4f503a;
+    background: #ff978feb;
+    padding: 10px;
+    margin: 20px 0px;
+}
+#nama::-webkit-input-placeholder ,  #passwordku::-webkit-input-placeholder , #passwordku2::-webkit-input-placeholder, 
+#namaemail::-webkit-input-placeholder {
+    color: #f0f0f0;
+}

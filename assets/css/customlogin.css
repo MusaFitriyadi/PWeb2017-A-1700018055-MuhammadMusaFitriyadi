@@ -1,0 +1,37 @@
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #4a4a4ad1;
+    margin: 0px;
+}
+
+
+
+#profile-img, #profile-img2{
+    width: 3.4%;
+    margin: 0px;
+    float: right;
+    border-radius: 57px;
+}
+.arrow-up {
+    width: 0;
+    height: 0;
+    border-bottom: 10px solid #bdbdbd;
+    border-left: 10px solid #63090900;
+    border-right: 10px solid transparent;
+    float: right;
+    margin: -10px 16px;
+}
+#kotakku{
+	border-radius: 16px;
+    background: #f1f1f1;
+    max-width: 14%;
+    border: 1px solid #ccc;
+    float: right;
+    margin: 0px 34px;
+}
+#kertas{
+	padding: 10px 23px;
+}
